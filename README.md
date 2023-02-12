@@ -2,8 +2,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Space Travelers' Hub
-Description
-In this project, we will be working with the real live data from the SpaceX API. The task is to build a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
+> Space Travelers' Hub is a pair-programming project. We worked with live data from the SpaceX API. The Space Travelers' Hub website is for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions. 
 
 
 ## Built With
