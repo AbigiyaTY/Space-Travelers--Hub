@@ -71,9 +71,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 👤 **Author2**
 
-* GitHub: [@githubhandle](https://github.com/AbigiyaTY)
-* Twitter: [@twitterhandle](https://twitter.com/AbigiyaTY)
-* LinkedIn: [@LinkedIn](https://www.linkedin.com/in/abigiya-tadesse-6a0052234)
+* GitHub: [@AbigiyaTY](https://github.com/AbigiyaTY)
+* Twitter: [@AbigiyaTY](https://twitter.com/AbigiyaTY)
+* LinkedIn: [@AbigiyaTY](https://www.linkedin.com/in/Abigiyaty)
 
 ## 🤝 Contributing
 
