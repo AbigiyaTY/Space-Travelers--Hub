@@ -12,11 +12,12 @@
 - Frameworks: Bootstrap.
 - Technologies used: webpack, linters, jest.
 
-
+<!--
 ## Live Demo (if available)
 
 [Live Demo Link](https://regal-beignet-311975.netlify.app/)
 
+-->
 
 ## Getting Started
 
